@@ -1,0 +1,6 @@
+{
+  "name": "Sakith Tech - Mobile Accessories Hub",
+  "description": "Sri Lanka's #1 Mobile Accessories Hub. Explore verified premium mobile covers, GaN power solutions, and audio gear with Islandwide Cash on Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
